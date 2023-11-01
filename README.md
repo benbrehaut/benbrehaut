@@ -1,2 +1,2 @@
 ## 👋 About me
-Front End Developer working on React, design systems, Front end architecture, a11y anything else that is cool and trendy.
+JavaScript Engineer working on React, TypeScript, design systems, a11y and anything else that is cool and trendy.
